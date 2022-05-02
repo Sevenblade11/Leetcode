@@ -1,4 +1,4 @@
-package SortArray;
+package sortarray;
 
 /**
  * Status: Accepted
